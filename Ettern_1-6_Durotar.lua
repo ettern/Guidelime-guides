@@ -38,10 +38,8 @@ Go further into the cave and [V]sell items here[G40.6,67.8][A Warlock].
 [G42.4,69]Turn in [QT3084 Rune-Inscribed Tablet]. \\|cFF0070DE[T]Learn new skills: \\ - Rockbiter Weapon (Rank 1)|r[A Troll, Shaman]
 [G42.4,69]Turn in [QT3089 Rune-Inscribed Parchment]. \\|cFF0070DE[T]Learn new skills: \\ - Rockbiter Weapon (Rank 1)|r[A Orc, Shaman]
 [G42.8,69.1]Accept [QA792 Vile Familiars] next to the wagon.[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
-[G42.8,69.3]Turn in [QT3087 Etched Parchment]. \\[T]Learn new skills:[A Orc, Hunter]
-[G42.8,69.3]Turn in [QT3082 Etched Tablet] \\[T]Learn new skills:[A Troll, Hunter].
-[G42.9,69.4]Turn in [QT2383 Simple Parchment]. \\[T]Learn new skills:[A Orc, Warrior]
-[G42.9,69.4]Turn in [QT3065 Simple Tablet]. \\[T]Learn new skills:[A Troll, Warrior]
+[G42.9,69.4]Turn in [QT2383 Simple Parchment]. \\|cFFC79C6E[T]Learn new skills: \\ - Battle Shout (Rank 1)|r[A Orc, Warrior]
+[G42.9,69.4]Turn in [QT3065 Simple Tablet]. \\|cFFC79C6E[T]Learn new skills: \\ - Battle Shout (Rank 1)|r[A Troll, Warrior]
 [G44.63,68.67]Accept [QA5441 Lazy Peons].
 Focus on doing [QC5441 Lazy Peons](See icon[L 41.2,72.7][L 42.3,73.2][L 44.7,72.8][L 47.6,69.4][L 45.6,65.7][L 47.2,65.5][L 46.8,60.8][L 47.1,57.9][L 43.8,57.8][L 42.7,57.4][L 41.3,58.8][L 40.9,60.4][L 38.8,61.9] on map for locations) together with the following quests: \\[QC4402 Galgar's Cactus Apple Surprise][OC] - Pick up cactus apples from plants\\[QC789 Sting of the Scorpid][OC] - Kill Scorpids. \\Head back to town once Lazy Peons is done. You dont need to finish the other quests now.[A Warlock]
 [G44.63,68.67]Turn in [QT5441 Lazy Peons]. \\Accept [QA6394 Thazz'ril's Pick].[A Warlock]
@@ -62,7 +60,7 @@ Run back/Hearthstone/unstuck/die on purpose(outside of the cave) - so you end up
 Next to you, accept [QA1516 Call of Earth (part 1)][G42.4,69.2][A Shaman].
 [G42.8,69.1]Turn in [QT792 Vile Familiars]. \\Accept [QA794 Burning Blade Medallion].[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 [G42.8,69.3]|cFFABD473[T]Learn new skills:\\ - Serpent Sting (Rank 1)|r[A Hunter]
-[G42.9,69.4][T]Learn new skills:[A Warrior]
+[G42.9,69.4]|cFFC79C6E[T]Learn new skills: \\ - Charge (Rank 1)|r[A Warrior]
 Enter the cave up north and pick up Thazz'ril's Pick[G43.7,53.8] for [QC6394 Thazz'ril's Pick].[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 Go further into the cave and kill Yarrog Baneshadow[G42.7,53] for [QC794 Burning Blade Medallion]. \\He is located at the end of the cave.[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 Kill felstalkers inside the cave for [QC1516 Call of Earth (part 1)][A Shaman].

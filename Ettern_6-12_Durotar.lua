@@ -6,9 +6,10 @@ Guidelime.registerGuide(
 [G54.3,73.4 Durotar]Accept [QA786 Thwarting Kolkar Aggression](NPC patrols around).
 In Sen'jin Village accept the following quests: \\[QA817 Practical Prey][G56,73.9] (inside the hut) \\[QA818 A solvent Spirit][G55.9,74.4].
 Turn in [QT805 Accept Report to Sen'jin Village][G56,74.7]. \\Accept [QA808 Minshina's Skull] \\Accept [QA823 Report to Orgnil] \\Accept [QA826 Zalazane].
-Buy and equip weapon from [V]Trayexir[G56.47,73.11]: \\ - |cFF00FF96Stiletto|r[A Rogue][O]
-Buy and equip weapon from [V]Trayexir[G56.47,73.11]: \\ - |cFF00FF96Hornwood Recurve Bow|r[A Hunter][O]
-Buy and equip weapon from [V]Trayexir[G56.47,73.11]: \\ - |cFF00FF96Walking Stick|r[A Shaman][O]
+Buy and equip weapon from [V]Trayexir[G56.47,73.11]: \\ - |cFF00FF96Stiletto(4 silver)|r[A Rogue][O]
+Buy and equip weapon from [V]Trayexir[G56.47,73.11]: \\ - |cFF00FF96Hornwood Recurve Bow(3 silver)|r[A Hunter][O]
+Buy and equip weapon from [V]Trayexir[G56.47,73.11]: \\ - |cFF00FF96Walking Stick(5 silver)|r[A Shaman][O]
+Buy and equip weapon from [V]Trayexir[G56.47,73.11]: \\ - |cFF00FF96Large Axe(5 silver)|r[A Warrior][O]
 [G56.3,75.1]|cFF69CCF0[T]Learn new skills:[A Mage]\\ - Fireball (Rank 1)\\ - Conjure Food (Rank 1)\\ - Fire Blast (Rank 1)|r
 Learn professions (optional): \\ - [T]Alchemy[G55.4,74] \\ - [T]Herbalism[G55.4,75.1][O]
 Grind your way up north and make sure you are level [XP6] before entering Razor Hill.\\Turn in [QC823 Report to Orgnil][G52.2,43.1] \\Accept [QA806 Dark Storms].[A Warlock,Warrior,Hunter,Rogue,Shaman,Priest]
@@ -21,6 +22,7 @@ Run up north to Razor Hill.\\Turn in [QC823 Report to Orgnil][G52.2,43.1] \\Acce
 [G54.4,41.19]|cFF9482C9[T]Learn new skills:[A Warlock] \\ - Life Tap (Rank 1) \\ - Shadow Bolt (Rank 2)
 [G51.5,41.6]Go in the Inn next to you and turn in [QT2161 A Peon's Burden]. \\[S]Set hearthstone] \\[V]Sell items \\[V]Buy level 5 water/food (you need 1 silver for First Aid).
 Enter the Barracks, make a left and learn [T]First Aid.[G54.2,41.9].
+[G54.19,42.5Durotar]|cFFC79C6E[T]Learn new skills: \\ - Rend (Rank 1) \\ - Parry (Passive)|r[A Warrior]
 Learn professions (optional): \\ - [T]Mining, Blacsmithing and Engineering[G52,40.8]
 Go to Tiragarde Keep and do [QC784 Vanquish the Betrayers][O] along with [QC791 Carry Your Weight][O][G58.17,57.13]: \\ - Kill the humans and work your way to the top of the fortress.
 Kill Lieutenant Benedict[G59.73,58.28] for [QC784,2 Vanquish the Betrayers]. \\- Loot his key.
@@ -37,6 +39,7 @@ Grind here or close to Razor Hill until you're [XP8-600 600 XP from level 8][A W
 [G51.98,43.67]|cFFFFF569[T]Learn new skills inside the bunker:\\ - Gouge (Rank 1) \\ - Evasion \\ - Eviscerate (Rank 2)|r[A Rogue]
 [G51.86,43.43]|cFFABD473[T]Learn new skills inside the bunker:\\ - Parry (Passive)\\ - Concussive Shot \\ - Raptor Strike (Rank 2)|r[A Hunter]
 [G54.4,42.6]|cFF0070DE[T]Learn new skills inside the barracks: \\ - Lightning Bolt (Rank 2) \\ - Lightning Shield (Rank 1) \\ - Rockbiter Weapon (Rank 2) \\ - Earth Shock (Rank 2) \\ - Healing Wave (Rank 2)|r[A Shaman]
+[G54.19,42.5]|cFFC79C6E[T]Learn new skills: \\ - Heroic Strike (Rank 2) \\ - Hamstring (Rank 1)|r[A Warrior]
 Grind your way south and do [QC786 Thwarting Kolkar Aggression]: \\ - [QC786,1 Attack Plan: Valley of Trials][G49.81,81.31] \\ - [QC786,2 Attack Plan: Sen'jin Village][G47.67,77.39] \\ - [QC786,3 Attack Plan: Orgrimmar][G46.26,78.98]
 Grind mobs here until level [XP8]
 Learn profession (optional): \\ - [T]Fishing[G53.3,81.6][O]
@@ -62,10 +65,20 @@ Do [QC834 Winds in the Desert]: loot Stolen Supply Sacks around the harpies. \\ 
 Keep grinding up north (near Orgrimmar's entrance) until you reach level [XP10].[A Mage,Shaman,Priest]
 Grind your way back to Razor Hill until you're [XP10-600 600 XP from level 10].[A Warlock, Warrior, Rogue, Hunter]
 [G52,43.4]In Razor Hill, turn in [QT837 Encroachment].[A Warlock, Rogue, Hunter, Warrior]
-[G51.98,43.67]|cFFFFF569[T]Learn new skills inside the bunker.|r[A Rogue]
-[G54.4,41.19]|cFF9482C9[T]Learn new skills.[A Warlock] \\ - Drain Soul (Rank 1) \\ - Demon Skin (Rank 2) \\ - Create Healthstone(minor) \\ - Immolate (Rank 2)|r
-[G54.4,41.3]Accept [QA1506 Gan'rul's Summons][A Warlock]
 [G51.98,43.67]Accept [QA1859 Therzok][A Rogue]
+[G51.98,43.67]|cFFFFF569[T]Learn new skills inside the bunker.|r[A Rogue]
+[G54.4,41.3]Accept [QA1506 Gan'rul's Summons][A Warlock]
+[G54.4,41.19]|cFF9482C9[T]Learn new skills:\\ - Drain Soul (Rank 1) \\ - Demon Skin (Rank 2) \\ - Create Healthstone(minor) \\ - Immolate (Rank 2)|r[A Warlock]
+[G54.4,41.3]Accept [QA1505 Veteran Uzzek][A Warrior]
+[G54.19,42.5]|cFFC79C6E[T]Learn new skills.|r[A Warrior]
+[G50.8,43.6]Accept [QA840 Conscript of the Horde][A Warrior]
+[G62.39,19.39The Barrens]Turn in [QT840 Conscript of the Horde].\\Accept [QA842 Crossroads Conscription][A Warrior]
+[G61.37,21.11The Barrens]Turn in [QT1505 Veteran Uzzek]\\Accept.[QA1498 Path of Defense][A Warrior]
+Pull some mobs and die on purpose, here[G60,20The Barrens]. Resurrect at XR gy.[A Warrior][O]
+[G52.24,31.03The Barrens]Turn in [QT842 Crossroads Conscription].[A Warrior]
+[G52.57,29.85The Barrens]Accept [QA6365 Meats to Orgrimmar].[A Warrior]
+[G51.48,30.34The Barrens]Turn in [QT6365 Meats to Orgrimmar]. \\Accept [QA6384 Ride to Orgrimmar][A Warrior]
+Fly to [F Orgrimmar]
 [G51.86,43.43]Accept [QA6062 Taming the Beast (part 1)][A Hunter]
 [G51.86,43.43]|cFFABD473[T]Learn new skills inside the bunker.|r[A Hunter]
 Find a Dire Mottled Boar[G52.83,48.9] and tame it with Taming Rod for [QC6062 Taming the Beast (part 1)].\\ - There should be a few Dire Mottled Boars south of Razor Hill.[A Hunter]
@@ -73,12 +86,15 @@ Find a Dire Mottled Boar[G52.83,48.9] and tame it with Taming Rod for [QC6062 Ta
 Find a Surf Crawler[G59.05,28.75] and tame it with Taming Rod for [QC6083 Taming the Beast (part 2)].[A Hunter]
 [G51.86,43.43]Turn in [QT6083Taming the Beast (part 2)] \\Accept [QA6082 Taming the Beast (part 3)][A Hunter]
 Find a Armored Scorpid[G48.87,38.41] and tame it with Taming Rod for [QC6082 Taming the Beast (part 3)].[A Hunter]
-[G51.86,43.43]Turn in [QT6082Taming the Beast (part 3)].\\Accept [QA6081 Training the Beast][A Hunter] 
-[G49.52,69.34 Orgrimmar]Go north into Orgrimmar and visit bank. \\Stash in bank: |cFF00FF96Really Sticky Glue|r [O]
+[G51.86,43.43]Turn in [QT6082Taming the Beast (part 3)].\\Accept [QA6081 Training the Beast][A Hunter]
+In Orgrimmar visit the bank. \\ - Stash in bank: |cFF00FF96Really Sticky Glue|r [O][A Warrior]
+[G49.52,69.34 Orgrimmar]Go north into Orgrimmar and visit bank. \\ - Stash in bank: |cFF00FF96Really Sticky Glue|r [O][A Mage,Shaman,Priest,Warlock,Rogue,Hunter]
 Visit Auction House and look for the following items: \\ - Wand/weapon \\ - Healing/mana potions \\ - Armor \\ - Rings.[A Mage, Warlock, Priest][OC]
 Visit Auction House and look for the following items:\\ - Weapon \\ - Healing potions \\ - Armor \\ - Rings[A Warrior, Rogue][OC]
 Visit Auction House and look for the following items: \\ - Weapon \\ - Healing/mana potions \\ - Armor \\ - Rings[A Shaman][OC]
 Visit Auction House and look for the following items: \\ - Weapon \\ - Healing/mana potions \\ - Armor \\ - Rings[A Hunter][OC]
+[G54.27,68.3Orgrimmar]Turn in [QT6384 Ride to Orgrimmar]. \\Accept [QA6385  Doras the Wind Rider Master][A Warrior]
+[G45.3,63.74Orgrimmar]Turn in [QT6385 Doras the Wind Rider Master]. \\Accept [QA6386  Return to the Crossroads][A Warrior]
 [G38.89,85.57 Orgrimmar]|cFF69CCF0[T]Visit Mage Trainer and learn new skills.[A Mage] \\ - Frost Nova (Rank 1) \\ - Frost Armor (Rank 2)\\ - Conjure Water (Rank 2)|r
 |cFFFF0000 Don't accept the mage quest.[A Mage][O]|r
 [G66,18.5 Orgrimmar]Turn in [QT6081 Training the Beast][A Hunter]
