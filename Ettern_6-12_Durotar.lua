@@ -66,4 +66,4 @@ Learn professions (optional): \\ - [T]Tailoring[G62.9,49.2 Orgrimmar] \\ - [T]Sk
 Hearth to [H Razor Hill].[O]
 [NX 12-14 Barrens]
 
-]], "Ettern leveling guide")
+]], "Ettern leveling guides")
