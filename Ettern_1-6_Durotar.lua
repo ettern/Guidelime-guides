@@ -28,8 +28,8 @@ Grind mobs until you're [XP3-250 250 XP from level 3][A Mage,Warrior,Hunter,Rogu
 [G42.1,68.3]Turn in [QT788 Cutting Teeth] and [QT804 Sarkoth].\\Accept [QA789 Sting of the Scorpid] and [QA3089 Rune-Inscribed Parchment][A Orc, Shaman].
 [G42.1,68.3]Turn in [QT788 Cutting Teeth] and [QT804 Sarkoth].\\Accept [QA789 Sting of the Scorpid] and [QA2383 Simple Parchment][A Orc, Warrior].
 [G42.1,68.3]Turn in [QT788 Cutting Teeth] and [QT804 Sarkoth].\\Accept [QA789 Sting of the Scorpid] and [QA3090 Tainted Parchment][A Warlock].
-[G41.3,68]Go further into the cave and turn in [QT3083 Encrypted Tablet][A Troll, Rogue]. \\[T]Learn new skills.
-[G41.3,68]Go further into the cave and turn in [QT3088 Encrypted Parchment][A Orc, Rogue]. \\[T]Learn new skills.
+[G41.3,68]Go into the cave and turn in [QT3083 Encrypted Tablet][A Troll, Rogue].
+[G41.3,68]Go into the cave and turn in [QT3088 Encrypted Parchment][A Orc, Rogue].
 Go further into the cave and [V]sell items here[G40.6,67.8][A Warlock].
 [G40.65,68.51]Next to you, turn in [QT3090 Tainted Parchment][A Warlock]. \\|cFF9482C9[T]Learn new skills.\\ - Corruption (Rank 1)|r
 [G42.7,67.3]Accept [QA4402 Galgar's Cactus Apple Surprise].\\[V]Sell items here.
@@ -78,4 +78,3 @@ Leave starting zone and pick up [QT2161 A Peon's Burden][G52.1,68.3].
 Grind mobs around Sen'jin Village until level [XP6]
 [NX 6-12 Durotar]
 ]], "Ettern leveling guides")
-
