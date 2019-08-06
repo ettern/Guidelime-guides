@@ -61,7 +61,7 @@ Run back/Hearthstone/unstuck/die on purpose(outside of the cave) - so you end up
 [G42.5,69]|cFF69CCF0[T]Learn new skills.\\ - Conjure Water (Rank 1)\\- Frostbolt(Rank 1)|r[A Mage]
 Next to you, accept [QA1516 Call of Earth (part 1)][G42.4,69.2][A Shaman].
 [G42.8,69.1]Turn in [QT792 Vile Familiars]. \\Accept [QA794 Burning Blade Medallion].[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
-[G42.8,69.3][T]Learn new skills.[A Hunter]
+[G42.8,69.3]|cFFABD473[T]Learn new skills.\\ - Serpent Sting (Rank 1)|r[A Hunter]
 [G42.9,69.4][T]Learn new skills.[A Warrior]
 Enter the cave up north and pick up Thazz'ril's Pick[G43.7,53.8] for [QC6394 Thazz'ril's Pick].[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 Go further into the cave and kill Yarrog Baneshadow[G42.7,53] for [QC794 Burning Blade Medallion]. \\He is located at the end of the cave.[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
@@ -75,6 +75,6 @@ Open your inventory and use the provided item, Earth Sapta. \\Turn in [QT1517 Ca
 Run back/Hearthstone/unstuck - so you end up in starting-town.[OC][A Shaman]
 [G42.4,69.2]Turn in [QT1518 Call of Earth (part 3)][A Shaman]
 Leave starting zone and pick up [QT2161 A Peon's Burden][G52.1,68.3].
-Grind mobs around Sen'jin Village until level [XP6]
+Grind mobs around Sen'jin Village until level [XP6][A Mage]
 [NX 6-12 Durotar]
 ]], "Ettern leveling guides")
