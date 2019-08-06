@@ -8,15 +8,17 @@ In Sen'jin Village accept the following quests: \\[QA817 Practical Prey][G56,73.
 Turn in [QT805 Accept Report to Sen'jin Village][G56,74.7]. \\Accept [QA808 Minshina's Skull] \\Accept [QA823 Report to Orgnil] \\Accept [QA826 Zalazane].
 Buy and equip weapon from [V]Trayexir[G56.47,73.11]: \\ - |cFF00FF96Stiletto|r[A Rogue][O]
 Buy and equip weapon from [V]Trayexir[G56.47,73.11]: \\ - |cFF00FF96Hornwood Recurve Bow|r[A Hunter][O]
-[G56.3,75.1]|cFF69CCF0[T]Learn new skills.[A Mage]\\ - Fireball (Rank 1)\\ - Conjure Food (Rank 1)\\ - Fire Blast (Rank 1)|r
+Buy and equip weapon from [V]Trayexir[G56.47,73.11]: \\ - |cFF00FF96Walking Stick|r[A Shaman][O]
+[G56.3,75.1]|cFF69CCF0[T]Learn new skills:[A Mage]\\ - Fireball (Rank 1)\\ - Conjure Food (Rank 1)\\ - Fire Blast (Rank 1)|r
 Learn professions (optional): \\ - [T]Alchemy[G55.4,74] \\ - [T]Herbalism[G55.4,75.1][O]
-Grind your way up north and make sure you are level [XP6] before entering Razor Hill. \\Turn in [QC823 Report to Orgnil][G52.2,43.1] \\Accept [QA806 Dark Storms]. 
+Grind your way up north and make sure you are level [XP6] before entering Razor Hill.\\Turn in [QC823 Report to Orgnil][G52.2,43.1] \\Accept [QA806 Dark Storms].[A Warlock,Warrior,Hunter,Rogue,Shaman,Priest]
+Run up north to Razor Hill.\\Turn in [QC823 Report to Orgnil][G52.2,43.1] \\Accept [QA806 Dark Storms].[A Mage]
 [G52,43.4]In the burrow next to you, accept [QA784 Vanquish the Betrayers] and [QA837 Encroachment].
-[G51.98,43.67]|cFFFFF569[T]Learn new skills inside the bunker.\\ - Sinister Strike (Rank 2)|r[A Rogue]
-[G51.86,43.43]|cFFABD473[T]Learn new skills inside the bunker.\\ - Aspect of the Monkey \\ - Arcane Shot (Rank 1) \\ - Hunter's Mark (Rank 1)|r[A Hunter]
+[G51.98,43.67]|cFFFFF569[T]Learn new skills inside the bunker:\\ - Sinister Strike (Rank 2)|r[A Rogue]
+[G51.86,43.43]|cFFABD473[T]Learn new skills inside the bunker:\\ - Aspect of the Monkey \\ - Arcane Shot (Rank 1) \\ - Hunter's Mark (Rank 1)|r[A Hunter]
 [G51.1,42.4]Accept [QA815 Break a Few Eggs]
 [G49.9,40.4]Go up to the top of the watchtower NW of Razor Hill and accept [QA791 Carry Your Weight].
-[G54.4,41.19]|cFF9482C9[T]Learn new skills.[A Warlock] \\ - Life Tap (Rank 1) \\ - Shadow Bolt (Rank 2)
+[G54.4,41.19]|cFF9482C9[T]Learn new skills:[A Warlock] \\ - Life Tap (Rank 1) \\ - Shadow Bolt (Rank 2)
 [G51.5,41.6]Go in the Inn next to you and turn in [QT2161 A Peon's Burden]. \\[S]Set hearthstone] \\[V]Sell items \\[V]Buy level 5 water/food (you need 1 silver for First Aid).
 Enter the Barracks, make a left and learn [T]First Aid.[G54.2,41.9].
 Learn professions (optional): \\ - [T]Mining, Blacsmithing and Engineering[G52,40.8]
@@ -31,9 +33,10 @@ Grind your way back to  Razor Hill or die/unstuck.[O]
 Go just SW of Razor Hill and do the first half of [QC837 Encroachment][OC] [G50.02,49.37]: \\ - Kill Razormane Quilboars and Razormane Scouts.
 Grind here or close to Razor Hill until you're [XP8-600 600 XP from level 8][A Warlock,Warrior,Hunter,Rogue,Shaman,Priest]
 [G52,43.4]Go back to Razor Hill and turn in [QT825 From The Wreckage....].
-[G54.4,41.19]|cFF9482C9[T]Learn new skills.\\ - Curse of Agony (Rank 1) \\ - Fear (Rank 1)[A Warlock] 
-[G51.98,43.67]|cFFFFF569[T]Learn new skills inside the bunker.\\ - Gouge (Rank 1) \\ - Evasion \\ - Eviscerate (Rank 2)|r[A Rogue]
-[G51.86,43.43]|cFFABD473[T]Learn new skills inside the bunker.\\ - Parry (Passive)\\ - Concussive Shot \\ - Raptor Strike (Rank 2)|r[A Hunter]
+[G54.4,41.19]|cFF9482C9[T]Learn new skills:\\ - Curse of Agony (Rank 1) \\ - Fear (Rank 1)[A Warlock] 
+[G51.98,43.67]|cFFFFF569[T]Learn new skills inside the bunker:\\ - Gouge (Rank 1) \\ - Evasion \\ - Eviscerate (Rank 2)|r[A Rogue]
+[G51.86,43.43]|cFFABD473[T]Learn new skills inside the bunker:\\ - Parry (Passive)\\ - Concussive Shot \\ - Raptor Strike (Rank 2)|r[A Hunter]
+[G54.4,42.6]|cFF0070DE[T]Learn new skills inside the barracks: \\ - Lightning Bolt (Rank 2) \\ - Lightning Shield (Rank 1) \\ - Rockbiter Weapon (Rank 2) \\ - Earth Shock (Rank 2) \\ - Healing Wave (Rank 2)|r[A Shaman]
 Grind your way south and do [QC786 Thwarting Kolkar Aggression]: \\ - [QC786,1 Attack Plan: Valley of Trials][G49.81,81.31] \\ - [QC786,2 Attack Plan: Sen'jin Village][G47.67,77.39] \\ - [QC786,3 Attack Plan: Orgrimmar][G46.26,78.98]
 Grind mobs here until level [XP8]
 Learn profession (optional): \\ - [T]Fishing[G53.3,81.6][O]
@@ -80,6 +83,7 @@ Visit Auction House and look for the following items: \\ - Weapon \\ - Healing/m
 |cFFFF0000 Don't accept the mage quest.[A Mage][O]|r
 [G66,18.5 Orgrimmar]Turn in [QT6081 Training the Beast][A Hunter]
 Learn professions (optional): \\ - [T]Tailoring[G62.9,49.2 Orgrimmar] \\ - [T]Skinning and leatherworking[G63.21,45.38Orgrimmar] \\ - [T]Enchanting[G53.6,38.17 Orgrimmar] \\ - [T]Alchemy[G56.45,33.85 Orgrimmar] \\ - [T]Mining[G73.12,26.24 Orgrimmar] \\ - [T]Blacksmithing[G82.13,23.23 Orgrimmar] \\ - [T]Engineering[G76.01,24.83Orgrimmar] \\ - [T]Herbalism[G55.69,40.05Orgrimmar]
+[G38.8,36.4 Orgrimmar]|cFF0070DE[T]Learn new skills|r[A Shaman]
 [G31.81,37.78Orgrimmar]Go to Thrall and accept [QA5726 Hidden Enemies (part 1)].
 [G32.2,35.78Orgrimmar]Next to you, turn in [QT831 The Admiral's Orders].
 [G46.98,53.71 Orgrimmar]Go into Cleft of Shadow and accept [QA813 Finding the Antidote].
