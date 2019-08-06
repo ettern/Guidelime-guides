@@ -6,7 +6,7 @@ Guidelime.registerGuide(
 [G54.3,73.4 Durotar]Accept [QA786 Thwarting Kolkar Aggression](NPC patrols around).
 In Sen'jin Village accept the following quests: \\[QA817 Practical Prey][G56,73.9] (inside the hut) \\[QA818 A solvent Spirit][G55.9,74.4].
 Turn in [QT805 Accept Report to Sen'jin Village][G56,74.7]. \\Accept [QA808 Minshina's Skull] \\Accept [QA823 Report to Orgnil] \\Accept [QA826 Zalazane].
-[G56.3,75.1]|cFF69CCF0[T]Learn new skills.[A Mage]\\ - Fireball\\ - Conjure Food\\ - Fire Blast|r
+[G56.3,75.1]|cFF69CCF0[T]Learn new skills.[A Mage]\\ - Fireball (Rank 1)\\ - Conjure Food (Rank 1)\\ - Fire Blast (Rank 1)|r
 Learn professions (optional): \\ - [T]Alchemy[G55.4,74] \\ - [T]Herbalism[G55.4,75.1][O]
 Run up north to Razor Hill. \\Turn in [QC823 Report to Orgnil][G52.2,43.1] \\Accept [QA806 Dark Storms]. 
 [G52,43.4]In the burrow next to you, accept [QA784 Vanquish the Betrayers] and [QA837 Encroachment].
@@ -35,7 +35,7 @@ Go to Sen'jin Village and turn in [QT786 Thwarting Kolkar Aggression][G54.3,73.4
 Turn in [QT818 A solvent Spirit][G55.9,74.4].
 Keep the reward for later use|cFF00FF96 Really Sticky Glue|r.[O]
 [G55.6,73.6][R]Repair and [S]sell items.
-[T]Learn new skills: [A Mage] |cFF69CCF0 \\ - Polymorph \\ - Frostbolt |r
+|cFF69CCF0[T]Learn new skills: [A Mage] \\ - Polymorph (Rank 1) \\ - Frostbolt (Rank 2)|r
 Go to Echo Isles and do the following 4 quests together: \\[QC815 Break a Few Eggs] - Pickup Taillasher Eggs\\[QC817 Practical Prey] - Kill Durotar Tigers\\[QC808 Minshina's Skull][G67.4,87.8] - On the little hill with candles around it\\[QC826 Zalazane][G67.19,86.98] - Kill Trolls and Zalazane.
 Die/unstuck to get to Sen'jin Village.
 Turn in the following quests in Senjin Village: \\[QT817 Practical Prey][G56,73.9]\\[QT808 Minshina's Skull][G56,74.7] and [QT826 Zalazane][G56,74.7]. 
@@ -53,7 +53,7 @@ Do [QC834 Winds in the Desert]: loot Stolen Supply Sacks around the harpies. \\ 
 Keep grinding up north (near Orgrimmar's entrance) until you reach level [XP10].[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 Grind your way back to Razor Hill until you're [XP10-600 600 XP from level 10].[A Warlock]
 [G52,43.4]In Razor Hill, turn in [QT837 Encroachment].[A Warlock]
-[G54.4,41.19]|cFF9482C9[T]Learn new skills.[A Warlock] \\ - Drain Soul (Rank 1) \\ - Demon Skin (Rank 2) \\ - Create Healthstone(minor) \\ - Immolate (Rank 2)
+[G54.4,41.19]|cFF9482C9[T]Learn new skills.[A Warlock] \\ - Drain Soul (Rank 1) \\ - Demon Skin (Rank 2) \\ - Create Healthstone(minor) \\ - Immolate (Rank 2)|r
 [G54.4,41.3]Accept [QA1506 Gan'rul's Summons][A Warlock]
 [G49.52,69.34 Orgrimmar]Go north into Orgrimmar and visit bank. \\Stash in bank: |cFF00FF96Really Sticky Glue|r [O]
 Visit Auction House and look for the following items: \\ - Wand/weapon \\ - Healing/mana potions \\ - Armor \\ - Rings with intellect (+ spirit).[A Mage][OC]
@@ -63,7 +63,7 @@ Visit Auction House and look for the following items: \\ - Weapon \\ - Healingpo
 Visit Auction House and look for the following items: \\ - Weapon \\ - Healing/mana potions \\ - Armor \\ - Rings[A Shaman][OC]
 Visit Auction House and look for the following items: \\ - Weapon \\ - Healing/mana potions \\ - Armor \\ - Rings[A Hunter][OC]
 Visit Auction House and look for the following items: \\ - Weapon \\ - Healing potions \\ - Armor \\ - Rings[A Rogue][OC]
-[G38.89,85.57 Orgrimmar][T]Visit Mage Trainer (38.87) and learn new skills.[A Mage]
+[G38.89,85.57 Orgrimmar]|cFF69CCF0[T]Visit Mage Trainer and learn new skills.[A Mage] \\ - Frost Nova (Rank 1) \\ - Frost Armor (Rank 2)\\ - Conjure Water (Rank 2)|r
 |cFFFF0000 Don't accept the mage quest.[A Mage][O]|r
 [G46.98,53.71 Orgrimmar]Go into Cleft of Shadow and accept [QA813 Finding the Antidote].
 [G48.2,45.3 Orgrimmar]Turn in [QT1506 Gan'rul's Summons]. \\Accept [QA1501 Creature of the Void][A Warlock]

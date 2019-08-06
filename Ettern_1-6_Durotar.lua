@@ -33,7 +33,7 @@ Grind mobs until you're [XP3-250 250 XP from level 3][A Mage,Warrior,Hunter,Rogu
 Go further into the cave and [V]sell items here[G40.6,67.8][A Warlock].
 [G40.65,68.51]Next to you, turn in [QT3090 Tainted Parchment][A Warlock]. \\|cFF9482C9[T]Learn new skills.\\ - Corruption (Rank 1)|r
 [G42.7,67.3]Accept [QA4402 Galgar's Cactus Apple Surprise].\\[V]Sell items here.
-[G42.5,69]Turn in [QT3086 Glyphic Tablet]. \\[T]Learn new skills:|cFF69CCF0\\- Arcane Intellect (Rank 1)|r[A Mage]
+[G42.5,69]Turn in [QT3086 Glyphic Tablet]. \\|cFF69CCF0[T]Learn new skills:\\ - Arcane Intellect (Rank 1)|r[A Mage]
 [G42.4,68.8]Turn in [QT3085 Hallowed Tablet]. \\[T]Learn new skills.[A Troll, Priest]
 [G42.4,69]Turn in [QT3084 Rune-Inscribed Tablet][A Troll, Shaman]. \\[T]Learn new skills.
 [G42.4,69]Turn in [QT3089 Rune-Inscribed Parchment]. \\[T]Learn new skills.[A Orc, Shaman]
@@ -58,7 +58,7 @@ Run back/Hearthstone/unstuck/die on purpose(outside of the cave) - so you end up
 [G42.1,68.3]Turn in [QT789 Sting of the Scorpid].
 [G42.4,69][T]Learn new skills.[A Shaman]
 [G42.4,68.8][T]Learn new skills.[A Priest]
-[G42.5,69][T]Learn new skills.|cFF69CCF0\\- Conjure Water\\- Frostbolt|r[A Mage]
+[G42.5,69]|cFF69CCF0[T]Learn new skills.\\ - Conjure Water (Rank 1)\\- Frostbolt(Rank 1)|r[A Mage]
 Next to you, accept [QA1516 Call of Earth (part 1)][G42.4,69.2][A Shaman].
 [G42.8,69.1]Turn in [QT792 Vile Familiars]. \\Accept [QA794 Burning Blade Medallion].[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 [G42.8,69.3][T]Learn new skills.[A Hunter]
