@@ -78,7 +78,7 @@ Pull some mobs and die on purpose, here[G60,20The Barrens]. Resurrect at XR gy.[
 [G52.24,31.03The Barrens]Turn in [QT842 Crossroads Conscription].[A Warrior]
 [G52.57,29.85The Barrens]Accept [QA6365 Meats to Orgrimmar].[A Warrior]
 [G51.48,30.34The Barrens]Turn in [QT6365 Meats to Orgrimmar]. \\Accept [QA6384 Ride to Orgrimmar][A Warrior]
-Fly to [F Orgrimmar]
+Fly to [F Orgrimmar][A Warrior]
 [G51.86,43.43]Accept [QA6062 Taming the Beast (part 1)][A Hunter]
 [G51.86,43.43]|cFFABD473[T]Learn new skills inside the bunker.|r[A Hunter]
 Find a Dire Mottled Boar[G52.83,48.9] and tame it with Taming Rod for [QC6062 Taming the Beast (part 1)].\\ - There should be a few Dire Mottled Boars south of Razor Hill.[A Hunter]
