@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N6-12 Durotar]
 [GA Orc,Troll]
-[D A guide created by |cFF69CCF0Ettern|r\\http://www.dreamstate.gg]
+[D A guide created by |cFF69CCF0Ettern|r\\www.dreamstate.gg/]
 [G54.3,73.4 Durotar]Accept [QA786 Thwarting Kolkar Aggression](NPC patrols around).
 In Sen'jin Village accept the following quests: \\[QA817 Practical Prey][G56,73.9] (inside the hut) \\[QA818 A solvent Spirit][G55.9,74.4].
 Turn in [QT805 Accept Report to Sen'jin Village][G56,74.7]. \\Accept [QA808 Minshina's Skull] \\Accept [QA823 Report to Orgnil] \\Accept [QA826 Zalazane].
@@ -25,7 +25,9 @@ Grind your way back to  Razor Hill or die/unstuck.[O]
 [G49.9,40.4]Go up to the top of the watchtower, and turn in [QT791 Carry Your Weight].
 [G61.79,42.38]Go east to the beach and in the water do [QC818 A solvent Spirit] along with [QC825 From The Wreckage....]: \\ - Kill/loot the crabs and makrura mobs and loot the Gnomish Toolboxes.
 Go just SW of Razor Hill and do the first half of [QC837 Encroachment][OC] [G50.02,49.37]: \\ - Kill Razormane Quilboars and Razormane Scouts.
+Grind here or close to Razor Hill until you're [XP8-600 600 XP from level 8][A Warlock,Warrior,Hunter,Rogue,Shaman,Priest]
 [G52,43.4]Go back to Razor Hill and turn in [QT825 From The Wreckage....].
+[G54.4,41.19]|cFF9482C9[T]Learn new skills.[A Warlock] \\ - Curse of Agony (Rank 1) \\ - Fear (Rank 1)
 Grind your way south and do [QC786 Thwarting Kolkar Aggression]: \\ - [QC786,1 Attack Plan: Valley of Trials][G49.81,81.31] \\ - [QC786,2 Attack Plan: Sen'jin Village][G47.67,77.39] \\ - [QC786,3 Attack Plan: Orgrimmar][G46.26,78.98]
 Grind mobs here until level [XP8]
 Learn profession (optional): \\ - [T]Fishing[G53.3,81.6][O]
@@ -48,7 +50,11 @@ Grind your way back to Razor Hill[O]
 Do [QC834 Winds in the Desert]: loot Stolen Supply Sacks around the harpies. \\ - (See icon[L47.2,29.61][L47.18,30.87][L48.13,34.31][L49.21,32.99][L49.66,32.11] on map for locations)
 [G46.37,23.12]Go back to the goblin and turn in [QC834 Winds in the Desert].\\Accept [QA835 Securing the Lines].
 [G41.53,18.6]Go NW and between the large rocks accept [QA812 Need for a Cure]. \\NOTE: Don't worry about the timer countdown.
-Keep grinding up north (near Orgrimmar's entrance) until you reach level [XP10].
+Keep grinding up north (near Orgrimmar's entrance) until you reach level [XP10].[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
+Grind your way back to Razor Hill until you're [XP10-600 600 XP from level 10].[A Warlock]
+[G52,43.4]In Razor Hill, turn in [QT837 Encroachment].[A Warlock]
+[G54.4,41.19]|cFF9482C9[T]Learn new skills.[A Warlock] \\ - Drain Soul (Rank 1) \\ - Demon Skin (Rank 2) \\ - Create Healthstone(minor) \\ - Immolate (Rank 2)
+[G54.4,41.3]Accept [QA1506 Gan'rul's Summons][A Warlock]
 [G49.52,69.34 Orgrimmar]Go north into Orgrimmar and visit bank. \\Stash in bank: |cFF00FF96Really Sticky Glue|r [O]
 Visit Auction House and look for the following items: \\ - Wand/weapon \\ - Healing/mana potions \\ - Armor \\ - Rings with intellect (+ spirit).[A Mage][OC]
 Visit Auction House and look for the following items: \\ - Wand/weapon \\ - Healing/mana potions \\ - Armor \\ - Rings.[A Warlock][OC]
@@ -57,13 +63,15 @@ Visit Auction House and look for the following items: \\ - Weapon \\ - Healingpo
 Visit Auction House and look for the following items: \\ - Weapon \\ - Healing/mana potions \\ - Armor \\ - Rings[A Shaman][OC]
 Visit Auction House and look for the following items: \\ - Weapon \\ - Healing/mana potions \\ - Armor \\ - Rings[A Hunter][OC]
 Visit Auction House and look for the following items: \\ - Weapon \\ - Healing potions \\ - Armor \\ - Rings[A Rogue][OC]
-[G38.89,85.57 Orgrimmar]Visit Mage Trainer (38.87) and learn new skills.[T].
+[G38.89,85.57 Orgrimmar][T]Visit Mage Trainer (38.87) and learn new skills.[A Mage]
 |cFFFF0000 Don't accept the mage quest.[A Mage][O]|r
 [G46.98,53.71 Orgrimmar]Go into Cleft of Shadow and accept [QA813 Finding the Antidote].
+[G48.2,45.3 Orgrimmar]Turn in [QT1506 Gan'rul's Summons]. \\Accept [QA1501 Creature of the Void][A Warlock]
 Learn professions (optional): \\ - [T]Tailoring[G62.9,49.2 Orgrimmar] \\ - [T]Skinning and leatherworking[G63.21,45.38Orgrimmar] \\ - [T]Enchanting[G53.6,38.17 Orgrimmar] \\ - [T]Alchemy[G56.45,33.85 Orgrimmar] \\ - [T]Mining[G73.12,26.24 Orgrimmar] \\ - [T]Blacksmithing[G82.13,23.23 Orgrimmar] \\ - [T]Engineering[G76.01,24.83Orgrimmar] \\ - [T]Herbalism[G55.69,40.05Orgrimmar]
 [G31.81,37.78Orgrimmar]Go to Thrall and accept [QA5726 Hidden Enemies (part 1)].
 [G32.2,35.78Orgrimmar]Next to you, turn in [QT831 The Admiral's Orders].
 Hearth to [H Razor Hill].[O]
+Congratulations, you reached the end of this demo-guide (created by Ettern-Dreamstate)
 [NX 12-14 Barrens]
 
 ]], "Ettern leveling guides")

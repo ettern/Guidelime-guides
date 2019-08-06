@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N1-6 Valley of Trials]
 [GA Orc,Troll]
-[D A guide created by |cFF69CCF0Ettern|r\\http://www.dreamstate.gg]
+[D A guide created by |cFF69CCF0Ettern|r\\www.dreamstate.gg/]
 [G43.3,68.5 Durotar]Accept [QA4641 Your Place In The World] in front of you.
 [G42.6,69]Accept [QA1485 Vile Familiars][A Warlock].
 [G42.1,68.3]Turn in [QT4641 Your Place In The World]. \\Accept [QA788 Cutting Teeth].
