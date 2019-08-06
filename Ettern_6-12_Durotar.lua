@@ -22,8 +22,11 @@ Run up north to Razor Hill.\\Turn in [QC823 Report to Orgnil][G52.2,43.1] \\Acce
 [G54.4,41.19]|cFF9482C9[T]Learn new skills:[A Warlock] \\ - Life Tap (Rank 1) \\ - Shadow Bolt (Rank 2)
 [G51.5,41.6]Go in the Inn next to you and turn in [QT2161 A Peon's Burden]. \\[S]Set hearthstone] \\[V]Sell items \\[V]Buy level 5 water/food (you need 1 silver for First Aid).
 Enter the Barracks, make a left and learn [T]First Aid.[G54.2,41.9].
-[G54.19,42.5Durotar]|cFFC79C6E[T]Learn new skills: \\ - Rend (Rank 1) \\ - Parry (Passive)|r[A Warrior]
+[G54.3,42.9]Turn in [QT5649 In Favor of Spirituality]. \\Accept [QA5648 Garments of Spirituality][A Priest]
+[G54.3,42.9]|cFFFFFFFF[T]Learn new skills: \\ - Power Word:Shield (Rank 1) \\ - Smite (Rank 2)|r[A Priest]
+[G54.19,42.5]|cFFC79C6E[T]Learn new skills: \\ - Rend (Rank 1) \\ - Parry (Passive)|r[A Warrior]
 Learn professions (optional): \\ - [T]Mining, Blacsmithing and Engineering[G52,40.8]
+Do [QC5648 Garments of Spirituality]: \\ - Heal Grunt Kor'ja[G53.1,46.5] \\ - Cast Power Word:Fortitude on Grunt Kor'ja[A Priest]
 Go to Tiragarde Keep and do [QC784 Vanquish the Betrayers][O] along with [QC791 Carry Your Weight][O][G58.17,57.13]: \\ - Kill the humans and work your way to the top of the fortress.
 Kill Lieutenant Benedict[G59.73,58.28] for [QC784,2 Vanquish the Betrayers]. \\- Loot his key.
 Go up to Benedict's Chest [G59.32,57.65], open it and accept [QA830 The Admiral's Orders (part 1)] from the Aged Envelope inside.
@@ -31,6 +34,7 @@ Jump down and finish: \\[QC784 Vanquish the Betrayers] \\[QC791 Carry Your Weigh
 Grind your way back to  Razor Hill or die/unstuck.[O]
 [G52,43.4]Turn in [QC784 Vanquish the Betrayers] and [QC830 The Admiral's Orders (part 1)]. \\Accept [QA825 From The Wreckage....] \\Accept [QA831 The Admiral's Orders (part 2)]
 [G49.9,40.4]Go up to the top of the watchtower, and turn in [QT791 Carry Your Weight].
+[G54.3,42.9]Turn in [QT5648 Garments of Spirituality]
 [G61.79,42.38]Go east to the beach and in the water do [QC818 A solvent Spirit] along with [QC825 From The Wreckage....]: \\ - Kill/loot the crabs and makrura mobs and loot the Gnomish Toolboxes.
 Go just SW of Razor Hill and do the first half of [QC837 Encroachment][OC] [G50.02,49.37]: \\ - Kill Razormane Quilboars and Razormane Scouts.
 Grind here or close to Razor Hill until you're [XP8-600 600 XP from level 8][A Warlock,Warrior,Hunter,Rogue,Shaman,Priest]
@@ -40,8 +44,9 @@ Grind here or close to Razor Hill until you're [XP8-600 600 XP from level 8][A W
 [G51.86,43.43]|cFFABD473[T]Learn new skills inside the bunker:\\ - Parry (Passive)\\ - Concussive Shot \\ - Raptor Strike (Rank 2)|r[A Hunter]
 [G54.4,42.6]|cFF0070DE[T]Learn new skills inside the barracks: \\ - Lightning Bolt (Rank 2) \\ - Lightning Shield (Rank 1) \\ - Rockbiter Weapon (Rank 2) \\ - Earth Shock (Rank 2) \\ - Healing Wave (Rank 2)|r[A Shaman]
 [G54.19,42.5]|cFFC79C6E[T]Learn new skills: \\ - Heroic Strike (Rank 2) \\ - Hamstring (Rank 1)|r[A Warrior]
+[G54.3,42.9]|cFFFFFFFF[T]Learn new skills: \\ - Renew (Rank 1) \\ - Fade (Rank 1)|r[A Priest]
 Grind your way south and do [QC786 Thwarting Kolkar Aggression]: \\ - [QC786,1 Attack Plan: Valley of Trials][G49.81,81.31] \\ - [QC786,2 Attack Plan: Sen'jin Village][G47.67,77.39] \\ - [QC786,3 Attack Plan: Orgrimmar][G46.26,78.98]
-Grind mobs here until level [XP8]
+Grind mobs here until level [XP8][A Mage]
 Learn profession (optional): \\ - [T]Fishing[G53.3,81.6][O]
 Go to Sen'jin Village and turn in [QT786 Thwarting Kolkar Aggression][G54.3,73.4] (NPC patrols)
 Turn in [QT818 A solvent Spirit][G55.9,74.4].
@@ -62,14 +67,15 @@ Grind your way back to Razor Hill[O]
 Do [QC834 Winds in the Desert]: loot Stolen Supply Sacks around the harpies. \\ - (See icon[L47.2,29.61][L47.18,30.87][L48.13,34.31][L49.21,32.99][L49.66,32.11] on map for locations)
 [G46.37,23.12]Go back to the goblin and turn in [QC834 Winds in the Desert].\\Accept [QA835 Securing the Lines].
 [G41.53,18.6]Go NW and between the large rocks accept [QA812 Need for a Cure]. \\NOTE: Don't worry about the timer countdown.
-Keep grinding up north (near Orgrimmar's entrance) until you reach level [XP10].[A Mage,Shaman,Priest]
-Grind your way back to Razor Hill until you're [XP10-600 600 XP from level 10].[A Warlock, Warrior, Rogue, Hunter]
-[G52,43.4]In Razor Hill, turn in [QT837 Encroachment].[A Warlock, Rogue, Hunter, Warrior]
+Keep grinding up north (near Orgrimmar's entrance) until you reach level [XP10].[A Mage,Shaman]
+Grind your way back to Razor Hill until you're [XP10-600 600 XP from level 10].[A Warlock, Warrior, Rogue, Hunter, Priest]
+[G52,43.4]In Razor Hill, turn in [QT837 Encroachment].[A Warlock, Rogue, Hunter, Warrior, Priest]
+[G54.3,42.9]Accept [QA5655 Hex of Weakness]. |cFFFFFFFF[T]Learn new skills: \\ - Lesser Heal (Rank 3) \\ - Resurrection (Rank 1) \\ - Mind Blast (Rank 1) \\ - Shadow Word:Pain (Rank 2)|r[A Priest]
 [G51.98,43.67]Accept [QA1859 Therzok][A Rogue]
 [G51.98,43.67]|cFFFFF569[T]Learn new skills inside the bunker.|r[A Rogue]
 [G54.4,41.3]Accept [QA1506 Gan'rul's Summons][A Warlock]
 [G54.4,41.19]|cFF9482C9[T]Learn new skills:\\ - Drain Soul (Rank 1) \\ - Demon Skin (Rank 2) \\ - Create Healthstone(minor) \\ - Immolate (Rank 2)|r[A Warlock]
-[G54.4,41.3]Accept [QA1505 Veteran Uzzek][A Warrior]
+[G54.19,42.5]Accept [QA1505 Veteran Uzzek][A Warrior]
 [G54.19,42.5]|cFFC79C6E[T]Learn new skills.|r[A Warrior]
 [G50.8,43.6]Accept [QA840 Conscript of the Horde][A Warrior]
 [G62.39,19.39The Barrens]Turn in [QT840 Conscript of the Horde].\\Accept [QA842 Crossroads Conscription][A Warrior]
@@ -97,6 +103,7 @@ Visit Auction House and look for the following items: \\ - Weapon \\ - Healing/m
 [G45.3,63.74Orgrimmar]Turn in [QT6385 Doras the Wind Rider Master]. \\Accept [QA6386  Return to the Crossroads][A Warrior]
 [G38.89,85.57 Orgrimmar]|cFF69CCF0[T]Visit Mage Trainer and learn new skills.[A Mage] \\ - Frost Nova (Rank 1) \\ - Frost Armor (Rank 2)\\ - Conjure Water (Rank 2)|r
 |cFFFF0000 Don't accept the mage quest.[A Mage][O]|r
+[G35.6,87.7 Orgrimmar]Turn in [QT5655 Hex of Weakness][A Priest]
 [G66,18.5 Orgrimmar]Turn in [QT6081 Training the Beast][A Hunter]
 Learn professions (optional): \\ - [T]Tailoring[G62.9,49.2 Orgrimmar] \\ - [T]Skinning and leatherworking[G63.21,45.38Orgrimmar] \\ - [T]Enchanting[G53.6,38.17 Orgrimmar] \\ - [T]Alchemy[G56.45,33.85 Orgrimmar] \\ - [T]Mining[G73.12,26.24 Orgrimmar] \\ - [T]Blacksmithing[G82.13,23.23 Orgrimmar] \\ - [T]Engineering[G76.01,24.83Orgrimmar] \\ - [T]Herbalism[G55.69,40.05Orgrimmar]
 [G38.8,36.4 Orgrimmar]|cFF0070DE[T]Learn new skills|r[A Shaman]

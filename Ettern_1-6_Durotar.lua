@@ -34,7 +34,7 @@ Go further into the cave and [V]sell items here[G40.6,67.8][A Warlock].
 [G40.65,68.51]Next to you, turn in [QT3090 Tainted Parchment][A Warlock]. \\|cFF9482C9[T]Learn new skills:\\ - Corruption (Rank 1)|r
 [G42.7,67.3]Accept [QA4402 Galgar's Cactus Apple Surprise].\\[V]Sell items here.
 [G42.5,69]Turn in [QT3086 Glyphic Tablet]. \\|cFF69CCF0[T]Learn new skills:\\ - Arcane Intellect (Rank 1)|r[A Mage]
-[G42.4,68.8]Turn in [QT3085 Hallowed Tablet]. \\[T]Learn new skills:[A Troll, Priest]
+[G42.4,68.8]Turn in [QT3085 Hallowed Tablet]. \\|cFFFFFFFF[T]Learn new skills: \\ - Power Word:Fortitude (Rank 1)|r[A Priest]
 [G42.4,69]Turn in [QT3084 Rune-Inscribed Tablet]. \\|cFF0070DE[T]Learn new skills: \\ - Rockbiter Weapon (Rank 1)|r[A Troll, Shaman]
 [G42.4,69]Turn in [QT3089 Rune-Inscribed Parchment]. \\|cFF0070DE[T]Learn new skills: \\ - Rockbiter Weapon (Rank 1)|r[A Orc, Shaman]
 [G42.8,69.1]Accept [QA792 Vile Familiars] next to the wagon.[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
@@ -55,7 +55,7 @@ Run back/Hearthstone/unstuck/die on purpose(outside of the cave) - so you end up
 [G42.7,67.3]Turn in [QT4402 Galgar's Cactus Apple Surprise].\\[V]Sell items here.
 [G42.1,68.3]Turn in [QT789 Sting of the Scorpid].
 [G42.4,69]|cFF0070DE[T]Learn new skills: \\ - Earth Shock (Rank 1)|r[A Shaman]
-[G42.4,68.8][T]Learn new skills:[A Priest]
+[G42.4,68.8]|cFFFFFFFF[T]Learn new skills: \\ - Shadow Word:Pain (Rank 1) \\ - Lesser Heal (Rank 2)|r[A Priest]
 [G42.5,69]|cFF69CCF0[T]Learn new skills:\\ - Conjure Water (Rank 1)\\- Frostbolt(Rank 1)|r[A Mage]
 Next to you, accept [QA1516 Call of Earth (part 1)][G42.4,69.2][A Shaman].
 [G42.8,69.1]Turn in [QT792 Vile Familiars]. \\Accept [QA794 Burning Blade Medallion].[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
@@ -66,6 +66,7 @@ Go further into the cave and kill Yarrog Baneshadow[G42.7,53] for [QC794 Burning
 Kill felstalkers inside the cave for [QC1516 Call of Earth (part 1)][A Shaman].
 Run back/Hearthstone/unstuck/die on purpose - so you end up in starting-town.[OC][A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 [G42.8,69.1]Turn in [QT794 Burning Blade Medallion]. \\Accept [QA805 Report to Sen'jin Village]
+[G42.4,68.8]Accept [QA5649 In Favor of Spirituality][A Priest]
 [G42.4,69.2]Turn in [QT1516 Call of Earth (part 1)]. \\Accept [QA1517 Call of Earth (part 2)][A Shaman]
 [G44.63,68.67]Turn in [QT6394 Thazz'ril's Pick]
 Go to [G 41.7,73.2], then go up the hill to[G 40.7,74.2]. Turn left and continue to follow the path up [G 42.1,74.8] until you see a big stone[G 44,76.2].[A Shaman]
