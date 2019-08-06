@@ -77,5 +77,5 @@ Run back/Hearthstone/unstuck - so you end up in starting-town.[OC][A Shaman]
 Leave starting zone and pick up [QT2161 A Peon's Burden][G52.1,68.3].
 Grind mobs around Sen'jin Village until level [XP6]
 [NX 6-12 Durotar]
-]], "Ettern leveling guide")
+]], "Ettern leveling guides")
 
