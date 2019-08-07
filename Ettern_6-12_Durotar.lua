@@ -22,6 +22,7 @@ Run up north to Razor Hill.\\Turn in [QC823 Report to Orgnil][G52.2,43.1] \\Acce
 [G54.4,41.19]|cFF9482C9[T]Learn new skills:[A Warlock] \\ - Life Tap (Rank 1) \\ - Shadow Bolt (Rank 2)
 [G51.5,41.6]Go in the Inn next to you and turn in [QT2161 A Peon's Burden]. \\[S]Set hearthstone] \\[V]Sell items \\[V]Buy level 5 water/food (you need 1 silver for First Aid).
 Enter the Barracks, make a left and learn [T]First Aid.[G54.2,41.9].
+From now you can start making bandages during "downtime". You will need 40 in skill later.[O]
 [G54.3,42.9]Turn in [QT5649 In Favor of Spirituality]. \\Accept [QA5648 Garments of Spirituality][A Priest]
 [G54.3,42.9]|cFFFFFFFF[T]Learn new skills: \\ - Power Word:Shield (Rank 1) \\ - Smite (Rank 2)|r[A Priest]
 [G54.19,42.5]|cFFC79C6E[T]Learn new skills: \\ - Rend (Rank 1) \\ - Parry (Passive)|r[A Warrior]
@@ -78,7 +79,7 @@ Grind your way back to Razor Hill until you're [XP10-600 600 XP from level 10].[
 [G54.19,42.5]Accept [QA1505 Veteran Uzzek][A Warrior]
 [G54.19,42.5]|cFFC79C6E[T]Learn new skills.|r[A Warrior]
 [G50.8,43.6]Accept [QA840 Conscript of the Horde][A Warrior]
-[G62.39,19.39The Barrens]Turn in [QT840 Conscript of the Horde].\\Accept [QA842 Crossroads Conscription][A Warrior]
+[G62.39,19.39The Barrens]Run west into the Barrens, and turn in [QT840 Conscript of the Horde].\\Accept [QA842 Crossroads Conscription][A Warrior]
 [G61.37,21.11The Barrens]Turn in [QT1505 Veteran Uzzek]\\Accept.[QA1498 Path of Defense][A Warrior]
 Pull some mobs and die on purpose, here[G60,20The Barrens]. Resurrect at XR gy.[A Warrior][O]
 [G52.24,31.03The Barrens]Turn in [QT842 Crossroads Conscription].[A Warrior]
@@ -95,13 +96,14 @@ Find a Armored Scorpid[G48.87,38.41] and tame it with Taming Rod for [QC6082 Tam
 [G51.86,43.43]Turn in [QT6082Taming the Beast (part 3)].\\Accept [QA6081 Training the Beast][A Hunter]
 In Orgrimmar visit the bank. \\ - Stash in bank: |cFF00FF96Really Sticky Glue|r [O][A Warrior]
 [G49.52,69.34 Orgrimmar]Go north into Orgrimmar and visit bank. \\ - Stash in bank: |cFF00FF96Really Sticky Glue|r [O][A Mage,Shaman,Priest,Warlock,Rogue,Hunter]
+[G54.29,68.32Orgrimmar][V]Buy food water/food
 Visit Auction House and look for the following items: \\ - Wand/weapon \\ - Healing/mana potions \\ - Armor \\ - Rings[A Mage, Warlock, Priest][OC]
 Visit Auction House and look for the following items:\\ - Weapon \\ - Healing potions \\ - Armor \\ - Rings[A Warrior, Rogue][OC]
 Visit Auction House and look for the following items: \\ - Weapon \\ - Healing/mana potions \\ - Armor \\ - Rings[A Shaman][OC]
-Visit Auction House and look for the following items: \\ - Weapon \\ - Healing/mana potions \\ - Armor \\ - Rings[A Hunter][OC]
+Visit Auction House and look for the following items: \\ - Weapon/Bow \\ - Healing/mana potions \\ - Armor \\ - Rings[A Hunter][OC]
 [G54.27,68.3Orgrimmar]Turn in [QT6384 Ride to Orgrimmar]. \\Accept [QA6385  Doras the Wind Rider Master][A Warrior]
 [G45.3,63.74Orgrimmar]Turn in [QT6385 Doras the Wind Rider Master]. \\Accept [QA6386  Return to the Crossroads][A Warrior]
-[G38.89,85.57 Orgrimmar]|cFF69CCF0[T]Visit Mage Trainer and learn new skills.[A Mage] \\ - Frost Nova (Rank 1) \\ - Frost Armor (Rank 2)\\ - Conjure Water (Rank 2)|r
+[G38.89,85.57 Orgrimmar]|cFF69CCF0[T]Learn new skills:\\ - Frost Nova (Rank 1) \\ - Frost Armor (Rank 2)\\ - Conjure Water (Rank 2)|r[A Mage] 
 |cFFFF0000 Skip the mage quest.[A Mage][O]|r
 [G35.6,87.7 Orgrimmar]Turn in [QT5655 Hex of Weakness][A Priest]
 [G66,18.5 Orgrimmar]Turn in [QT6081 Training the Beast][A Hunter]
@@ -110,7 +112,7 @@ Learn professions (optional): \\ - [T]Tailoring[G62.9,49.2 Orgrimmar] \\ - [T]Sk
 [G31.81,37.78Orgrimmar]Go to Thrall and accept [QA5726 Hidden Enemies (part 1)].
 [G32.2,35.78Orgrimmar]Next to you, turn in [QT831 The Admiral's Orders].
 [G46.98,53.71 Orgrimmar]Go into Cleft of Shadow and accept [QA813 Finding the Antidote].
-[G42.7,53.5]Turn in [QT1859 Therzok][A Rogue]. \\Accept [QT1963 The Shattered Hand]
+[G42.7,53.5 Orgrimmar]Turn in [QT1859 Therzok][A Rogue]. \\Accept [QT1963 The Shattered Hand]
 [G48.2,45.3 Orgrimmar]Turn in [QT1506 Gan'rul's Summons]. \\Accept [QA1501 Creature of the Void][A Warlock]
 Enter Ragefire Chasm[G52.53,49.08Orgrimmar] and die on purpose. Then resurrect at the spirit healer[G47.32,17.87Durotar] outside Orgrimmar.[O]
 [G53.85,25.09Durotar]Do [QC835 Securing the Lines].
@@ -118,7 +120,39 @@ Once done, die on purpose as far in the ravine you can come[G51.29,18.74]. Resur
 [G46.37,23.12]Turn in [QT835 Securing the Lines].
 Do [QC813 Finding the Antidote][G42.93,17.88]: \\ - Kill Venomtail Scorpids
 Do [QC816 Lost But Not Forgotten][G37.03,18.22]: \\ - kill Dreadmaw Crocolisk in the river
-Do [QC806 Dark Storms][G42.07,26.63]
+Do [QC806 Dark Storms][G42.07,26.63]: \\ - Kill Fizzle Darkstorm
+[G43.09,30.34]Turn in [QT816 Lost But Not Forgotten].
+Go to Razor Hill and turn in [QT806 Dark Storms]. \\Accept [QA828 Margoz]
+[R]Repair and [S]resupply if needed.[OC]
+Grind your way to Margoz[G56.4,20] and turn in [QT828 Margoz]. \\Accept [QA827 Skull Rock].
+[G54.06,9.01]Do [QC827 Skull Rock] along with [QC5726 Hidden Enemies (part 1)]. \\ - Keep left inside the cave
+Go to the end of the cave and kill Gazz'uz[G51.88,9.56 Durotar] \\ - Use Faintly Glowing Skull if you have trouble \\ - Loot |cFF00FF96Eye of Burning Shadow|r[OC]
+Accept [QA832 Burning Shadows]
+Try to reach skillevel 40 in First Aid while staying in this cave. (Linen Cloth) \\ - Else you might have to buy some from AH later.[O]
+Grind you way back to Margoz[G56.4,20] and turn in [QT827 Skull Rock]. \\Accept [QA829 Neeru Fireblade].
+Keep grinding any mobs (mostly up north) until you're [XP12-2000 2000 XP from level 12].
+Make sure you have atleast 50 skillevel in skinning before entering Orgrimmar (optional).[O]
+Go into Orgrimmar. \\ - Buy water/food from innkeeper[G54.29,68.32Orgrimmar] (if needed) \\ - Visit auction house [A Warrior, Hunter, Shaman, Rogue]
+Go into Orgrimmar. \\ - Buy water/food from innkeeper[G54.29,68.32Orgrimmar] (if needed) \\ - Visit auction house \\ - Look for wands [A Mage, Warlock, Priest]
+[G63.21,45.38Orgrimmar]Learn journeyman skinning (if you have more than 50 skillevel)(optional)
+[G31.81,37.78Orgrimmar]Turn in [QT5726 Hidden Enemies (part 1)]. \\Accept [QA5727 Hidden Enemies (part 2)]
+[G46.98,53.71 Orgrimmar]Go to Cleft of Shadows and turn in [QT813 Finding the Antidote].
+[G49.5,50.63Orgrimmar]Also in the Cleft of Shadows, turn in [QT829 Neeru Fireblade] and [QT832 Burning Shadows]. \\Accept [QA809 Ak'Zeloth] \\ - Keep talking to this NPC to complete [QC5727 Hidden Enemies (part 2)].
+Go back to Thrall and turn in [QT5727 Hidden Enemies (part 2)] \\|cFFFF0000 - Skip the follow-up|r
+[G35.65,87.46Orgrimmar]|cFFFFFFFF[T]Learn new skills|r[A Priest]
+[G38.8,36.4 Orgrimmar]|cFF0070DE[T]Learn new skills|r[A Shaman]
+[G38.89,85.57 Orgrimmar]|cFF69CCF0[T]Learn new skills:\\ - Conjure Food (Rank 2) \\ - Dampen Magic (Rank 1)\\ - Fireball (Rank 3)|r[A Mage]
+[G66,18.5 Orgrimmar]|cFFABD473[T]Learn new skills|r[A Hunter]
+[G79.2,30.8 Orgrimmar]|cFFC79C6E[T]Learn new skills|r[A Warrior]
+[G42.6,53 Orgrimmar]|cFFFFF569Learn new skills|r[A Rogue]
+[G48.2,45.2 Orgrimmar]|cFF9482C9Learn new skills|r[A Warlock]
+Enter Ragefire Chasm[G52.53,49.08Orgrimmar] and die on purpose. Then resurrect at the spirit healer[G47.32,17.87Durotar] outside Orgrimmar.[O][A Warlock,Warrior,Rogue,Hunter,Shaman]
+[G41.53,18.6]Exit Orgrimmar and turn in [QT812 Need for a Cure] \\ - You will most likely have to abandon the quest and accept it again to turn it in.[A Mage, Priest]
+[G41.53,18.6]Turn in [QT812 Need for a Cure] \\ - You will most likely have to abandon the quest and accept it again to turn it in.[A Warlock,Warrior,Rogue,Hunter,Shaman]
+Hearthstone to [H Razor Hill]
+Upgrade First Aid to skillevel 40, then learn Heavy Linen Bandage.
+[G50.8,43.6]Accept [QA840 Conscript of the Horde][A Warlock,Mage,Priest,Rogue,Hunter,Shaman]
+[G62.3,19.33The Barrens]Run west into the Barrens
 Congratulations, you reached the end of this demo created by |cFF69CCF0Ettern - Dreamstate|r
 [NX 12-14 Barrens]
 

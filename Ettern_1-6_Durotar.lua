@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N1-6 Valley of Trials]
 [GA Orc,Troll]
-[D A guide created by |cFF69CCF0Ettern|r\\www.dreamstate.gg/]
+[D A guide created by |cFF69CCF0Ettern|r\\www.dreamstate.gg]
 [G43.3,68.5 Durotar]Accept [QA4641 Your Place In The World].
 [G42.6,69]Accept [QA1485 Vile Familiars][A Warlock].
 [G42.1,68.3]Turn in [QT4641 Your Place In The World]. \\Accept [QA788 Cutting Teeth].
@@ -50,7 +50,7 @@ Run back/Hearthstone/unstuck/die on purpose - so you end up in starting-town.[OC
 From now focus on [QC5441 Lazy Peons] (See icon[L 41.2,72.7][L 42.3,73.2][L 44.7,72.8][L 47.6,69.4][L 45.6,65.7][L 47.2,65.5][L 46.8,60.8][L 47.1,57.9][L 43.8,57.8][L 42.7,57.4][L 41.3,58.8][L 40.9,60.4][L 38.8,61.9] on map for locations) together with: \\[QC4402 Galgar's Cactus Apple Surprise] - Pick up cactus apples from plants\\[QC789 Sting of the Scorpid] - Kill Scorpids.[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 [G45.3,57.2]Kill Vile Familiars for [QC792 Vile Familiars][A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 Grind mobs until you're [XP4-1000 1000 XP from level 4][A Mage,Warrior,Hunter,Rogue,Shaman,Priest].
-Run back/Hearthstone/unstuck/die on purpose(outside of the cave) - so you end up in starting-town.[OC][A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
+|cFFFF0000Run back/die on purpose(outside of the cave) - so you end up in starting-town.|r[OC][A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 [G44.63,68.67]Turn in [QT5441 Lazy Peons].\\Accept [QA6394 Thazz'ril's Pick].[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 [G42.7,67.3]Turn in [QT4402 Galgar's Cactus Apple Surprise].\\[V]Sell items here.
 [G42.1,68.3]Turn in [QT789 Sting of the Scorpid].
@@ -62,9 +62,9 @@ Next to you, accept [QA1516 Call of Earth (part 1)][G42.4,69.2][A Shaman].
 [G42.8,69.3]|cFFABD473[T]Learn new skills:\\ - Serpent Sting (Rank 1)|r[A Hunter]
 [G42.9,69.4]|cFFC79C6E[T]Learn new skills: \\ - Charge (Rank 1)|r[A Warrior]
 Enter the cave up north and pick up Thazz'ril's Pick[G43.7,53.8] for [QC6394 Thazz'ril's Pick].[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
-Go further into the cave and kill Yarrog Baneshadow[G42.7,53] for [QC794 Burning Blade Medallion]. \\ - He is located at the end of the cave.[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
+Go further into the cave and kill Yarrog Baneshadow[G42.7,53] for [QC794 Burning Blade Medallion]. \\He is located at the end of the cave.[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 Kill felstalkers inside the cave for [QC1516 Call of Earth (part 1)][A Shaman].
-Run back/Hearthstone/unstuck/die on purpose - so you end up in starting-town.[OC][A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
+Hearth back to [H Valley of Trials][A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 [G42.8,69.1]Turn in [QT794 Burning Blade Medallion]. \\Accept [QA805 Report to Sen'jin Village]
 [G42.4,68.8]Accept [QA5649 In Favor of Spirituality][A Priest]
 [G42.4,69.2]Turn in [QT1516 Call of Earth (part 1)]. \\Accept [QA1517 Call of Earth (part 2)][A Shaman]
