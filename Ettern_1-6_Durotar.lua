@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 [N1-6 Valley of Trials]
 [GA Orc,Troll]
 [D A guide created by |cFF69CCF0Ettern|r\\www.dreamstate.gg/]
-[G43.3,68.5 Durotar]Accept [QA4641 Your Place In The World] in front of you.
+[G43.3,68.5 Durotar]Accept [QA4641 Your Place In The World].
 [G42.6,69]Accept [QA1485 Vile Familiars][A Warlock].
 [G42.1,68.3]Turn in [QT4641 Your Place In The World]. \\Accept [QA788 Cutting Teeth].
 Unequip leggings, boots and weapon then sell it together with Tough Jerky to [V]vendor[G40.6,67.8] so you have atleast 10 copper.[A Warlock]
@@ -62,7 +62,7 @@ Next to you, accept [QA1516 Call of Earth (part 1)][G42.4,69.2][A Shaman].
 [G42.8,69.3]|cFFABD473[T]Learn new skills:\\ - Serpent Sting (Rank 1)|r[A Hunter]
 [G42.9,69.4]|cFFC79C6E[T]Learn new skills: \\ - Charge (Rank 1)|r[A Warrior]
 Enter the cave up north and pick up Thazz'ril's Pick[G43.7,53.8] for [QC6394 Thazz'ril's Pick].[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
-Go further into the cave and kill Yarrog Baneshadow[G42.7,53] for [QC794 Burning Blade Medallion]. \\He is located at the end of the cave.[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
+Go further into the cave and kill Yarrog Baneshadow[G42.7,53] for [QC794 Burning Blade Medallion]. \\ - He is located at the end of the cave.[A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 Kill felstalkers inside the cave for [QC1516 Call of Earth (part 1)][A Shaman].
 Run back/Hearthstone/unstuck/die on purpose - so you end up in starting-town.[OC][A Mage,Warrior,Hunter,Rogue,Shaman,Priest]
 [G42.8,69.1]Turn in [QT794 Burning Blade Medallion]. \\Accept [QA805 Report to Sen'jin Village]
