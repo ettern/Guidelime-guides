@@ -18,7 +18,7 @@ Run up north to Razor Hill.\\Turn in [QC823 Report to Orgnil][G52.2,43.1] \\Acce
 [G51.98,43.67]|cFFFFF569[T]Learn new skills inside the bunker:\\ - Sinister Strike (Rank 2)|r[A Rogue]
 [G51.86,43.43]|cFFABD473[T]Learn new skills inside the bunker:\\ - Aspect of the Monkey \\ - Arcane Shot (Rank 1) \\ - Hunter's Mark (Rank 1)|r[A Hunter]
 [G51.1,42.4]Accept [QA815 Break a Few Eggs]
-[G49.9,40.4]Go up to the top of the watchtower NW of Razor Hill and accept [QA791 Carry Your Weight].
+[G49.9,40.4]Go up to the top of the Razor Hill watchtower and accept [QA791 Carry Your Weight].
 [G54.4,41.19]|cFF9482C9[T]Learn new skills:[A Warlock] \\ - Life Tap (Rank 1) \\ - Shadow Bolt (Rank 2)
 [G51.5,41.6]Go in the Inn next to you and turn in [QT2161 A Peon's Burden]. \\[S]Set hearthstone] \\[V]Sell items \\[V]Buy level 5 water/food (you need 1 silver for First Aid).
 Enter the Barracks, make a left and learn [T]First Aid.[G54.2,41.9].
@@ -31,7 +31,7 @@ Go to Tiragarde Keep and do [QC784 Vanquish the Betrayers][O] along with [QC791 
 Kill Lieutenant Benedict[G59.73,58.28] for [QC784,2 Vanquish the Betrayers]. \\- Loot his key.
 Go up to Benedict's Chest [G59.32,57.65], open it and accept [QA830 The Admiral's Orders (part 1)] from the Aged Envelope inside.
 Jump down and finish: \\[QC784 Vanquish the Betrayers] \\[QC791 Carry Your Weight].
-Grind your way back to  Razor Hill or die/unstuck.[O]
+|cFFFF0000Grind your way back to  Razor Hill or die/unstuck.|r[O]
 [G52,43.4]Turn in [QC784 Vanquish the Betrayers] and [QC830 The Admiral's Orders (part 1)]. \\Accept [QA825 From The Wreckage....] \\Accept [QA831 The Admiral's Orders (part 2)]
 [G49.9,40.4]Go up to the top of the watchtower, and turn in [QT791 Carry Your Weight].
 [G54.3,42.9]Turn in [QT5648 Garments of Spirituality]
@@ -54,7 +54,7 @@ Keep the reward for later use|cFF00FF96 Really Sticky Glue|r.[O]
 [G55.6,73.6][R]Repair and [S]sell items.
 |cFF69CCF0[T]Learn new skills: [A Mage] \\ - Polymorph (Rank 1) \\ - Frostbolt (Rank 2)|r
 Go to Echo Isles and do the following 4 quests together: \\[QC815 Break a Few Eggs] - Pickup Taillasher Eggs\\[QC817 Practical Prey] - Kill Durotar Tigers\\[QC808 Minshina's Skull][G67.4,87.8] - On the little hill with candles around it\\[QC826 Zalazane][G67.19,86.98] - Kill Trolls and Zalazane.
-Die/unstuck to get to Sen'jin Village.
+|cFFFF0000Die/unstuck to get to Sen'jin Village.|r[O]
 Turn in the following quests in Senjin Village: \\[QT817 Practical Prey][G56,73.9]\\[QT808 Minshina's Skull][G56,74.7] and [QT826 Zalazane][G56,74.7]. 
 Keep the reward for later use|cFF00FF96 Faintly Glowing Skull|r.[O]
 Grind your way back to Razor Hill[O]
@@ -63,10 +63,10 @@ Grind your way back to Razor Hill[O]
 [G51.5,41.6][V]Buy level 5 water/food[O]
 [G43.98,40.19]Go west of Razor Hill and do the second half of [QC837 Encroachment]: \\ - Kill the Razormane Dustrunners and Razormane Battleguards.
 [G43.09,30.34]Grind your way north to the little house and accept [QA816 Lost But Not Forgotten].
-[G46.37,23.12]Go NE to the goblin and accept [QA834 Winds in the Desert].
+[G46.37,23.12]Go NE and accept [QA834 Winds in the Desert].
 Do [QC834 Winds in the Desert]: loot Stolen Supply Sacks around the harpies. \\ - (See icon[L47.2,29.61][L47.18,30.87][L48.13,34.31][L49.21,32.99][L49.66,32.11] on map for locations)
-[G46.37,23.12]Go back to the goblin and turn in [QC834 Winds in the Desert].\\Accept [QA835 Securing the Lines].
-[G41.53,18.6]Go NW and between the large rocks accept [QA812 Need for a Cure]. \\NOTE: Don't worry about the timer countdown.
+[G46.37,23.12]Go back and turn in [QC834 Winds in the Desert].\\Accept [QA835 Securing the Lines].
+[G41.53,18.6]Go NW and accept [QA812 Need for a Cure]. \\NOTE: Don't worry about the timer countdown.
 Keep grinding up north (near Orgrimmar's entrance) until you reach level [XP10].[A Mage,Shaman]
 Grind your way back to Razor Hill until you're [XP10-600 600 XP from level 10].[A Warlock, Warrior, Rogue, Hunter, Priest]
 [G52,43.4]In Razor Hill, turn in [QT837 Encroachment].[A Warlock, Rogue, Hunter, Warrior, Priest]
@@ -95,14 +95,14 @@ Find a Armored Scorpid[G48.87,38.41] and tame it with Taming Rod for [QC6082 Tam
 [G51.86,43.43]Turn in [QT6082Taming the Beast (part 3)].\\Accept [QA6081 Training the Beast][A Hunter]
 In Orgrimmar visit the bank. \\ - Stash in bank: |cFF00FF96Really Sticky Glue|r [O][A Warrior]
 [G49.52,69.34 Orgrimmar]Go north into Orgrimmar and visit bank. \\ - Stash in bank: |cFF00FF96Really Sticky Glue|r [O][A Mage,Shaman,Priest,Warlock,Rogue,Hunter]
-Visit Auction House and look for the following items: \\ - Wand/weapon \\ - Healing/mana potions \\ - Armor \\ - Rings.[A Mage, Warlock, Priest][OC]
+Visit Auction House and look for the following items: \\ - Wand/weapon \\ - Healing/mana potions \\ - Armor \\ - Rings[A Mage, Warlock, Priest][OC]
 Visit Auction House and look for the following items:\\ - Weapon \\ - Healing potions \\ - Armor \\ - Rings[A Warrior, Rogue][OC]
 Visit Auction House and look for the following items: \\ - Weapon \\ - Healing/mana potions \\ - Armor \\ - Rings[A Shaman][OC]
 Visit Auction House and look for the following items: \\ - Weapon \\ - Healing/mana potions \\ - Armor \\ - Rings[A Hunter][OC]
 [G54.27,68.3Orgrimmar]Turn in [QT6384 Ride to Orgrimmar]. \\Accept [QA6385  Doras the Wind Rider Master][A Warrior]
 [G45.3,63.74Orgrimmar]Turn in [QT6385 Doras the Wind Rider Master]. \\Accept [QA6386  Return to the Crossroads][A Warrior]
 [G38.89,85.57 Orgrimmar]|cFF69CCF0[T]Visit Mage Trainer and learn new skills.[A Mage] \\ - Frost Nova (Rank 1) \\ - Frost Armor (Rank 2)\\ - Conjure Water (Rank 2)|r
-|cFFFF0000 Don't accept the mage quest.[A Mage][O]|r
+|cFFFF0000 Skip the mage quest.[A Mage][O]|r
 [G35.6,87.7 Orgrimmar]Turn in [QT5655 Hex of Weakness][A Priest]
 [G66,18.5 Orgrimmar]Turn in [QT6081 Training the Beast][A Hunter]
 Learn professions (optional): \\ - [T]Tailoring[G62.9,49.2 Orgrimmar] \\ - [T]Skinning and leatherworking[G63.21,45.38Orgrimmar] \\ - [T]Enchanting[G53.6,38.17 Orgrimmar] \\ - [T]Alchemy[G56.45,33.85 Orgrimmar] \\ - [T]Mining[G73.12,26.24 Orgrimmar] \\ - [T]Blacksmithing[G82.13,23.23 Orgrimmar] \\ - [T]Engineering[G76.01,24.83Orgrimmar] \\ - [T]Herbalism[G55.69,40.05Orgrimmar]
@@ -112,7 +112,13 @@ Learn professions (optional): \\ - [T]Tailoring[G62.9,49.2 Orgrimmar] \\ - [T]Sk
 [G46.98,53.71 Orgrimmar]Go into Cleft of Shadow and accept [QA813 Finding the Antidote].
 [G42.7,53.5]Turn in [QT1859 Therzok][A Rogue]. \\Accept [QT1963 The Shattered Hand]
 [G48.2,45.3 Orgrimmar]Turn in [QT1506 Gan'rul's Summons]. \\Accept [QA1501 Creature of the Void][A Warlock]
-Enter Ragefire Chasm[G52.53,49.08Orgrimmar] and die on purpose. Then resurrect at the spirit healer outside Orgrimmar.[O]
+Enter Ragefire Chasm[G52.53,49.08Orgrimmar] and die on purpose. Then resurrect at the spirit healer[G47.32,17.87Durotar] outside Orgrimmar.[O]
+[G53.85,25.09Durotar]Do [QC835 Securing the Lines].
+Once done, die on purpose as far in the ravine you can come[G51.29,18.74]. Resurrect at spirit healer.[O]
+[G46.37,23.12]Turn in [QT835 Securing the Lines].
+Do [QC813 Finding the Antidote][G42.93,17.88]: \\ - Kill Venomtail Scorpids
+Do [QC816 Lost But Not Forgotten][G37.03,18.22]: \\ - kill Dreadmaw Crocolisk in the river
+Do [QC806 Dark Storms][G42.07,26.63]
 Congratulations, you reached the end of this demo created by |cFF69CCF0Ettern - Dreamstate|r
 [NX 12-14 Barrens]
 
