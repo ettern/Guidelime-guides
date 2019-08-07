@@ -2,7 +2,7 @@ Guidelime.registerGuide(
 [[
 [N6-12 Durotar]
 [GA Orc,Troll]
-[D A guide created by |cFF69CCF0Ettern|r\\www.dreamstate.gg/]
+[D A guide created by |cFF69CCF0Ettern|r\\www.dreamstate.gg]
 [G54.3,73.4 Durotar]Accept [QA786 Thwarting Kolkar Aggression](NPC patrols around).
 In Sen'jin Village accept the following quests: \\[QA817 Practical Prey][G56,73.9] (inside the hut) \\[QA818 A solvent Spirit][G55.9,74.4].
 Turn in [QT805 Accept Report to Sen'jin Village][G56,74.7]. \\Accept [QA808 Minshina's Skull] \\Accept [QA823 Report to Orgnil] \\Accept [QA826 Zalazane].
