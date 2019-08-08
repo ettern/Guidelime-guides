@@ -118,9 +118,10 @@ Enter Ragefire Chasm[G52.53,49.08Orgrimmar] and die on purpose. Then resurrect a
 [G53.85,25.09Durotar]Do [QC835 Securing the Lines].
 Once done, die on purpose as far in the ravine you can come[G51.29,18.74]. Resurrect at spirit healer.[O]
 [G46.37,23.12]Turn in [QT835 Securing the Lines].
-Do [QC813 Finding the Antidote][G42.93,17.88]: \\ - Kill Venomtail Scorpids
-Do [QC816 Lost But Not Forgotten][G37.03,18.22]: \\ - kill Dreadmaw Crocolisk in the river
-Do [QC806 Dark Storms][G42.07,26.63]: \\ - Kill Fizzle Darkstorm
+[G42.93,17.88]Do [QC813 Finding the Antidote]: \\ - Kill Venomtail Scorpids
+[G37.03,18.22]Do [QC816 Lost But Not Forgotten]: \\ - kill Dreadmaw Crocolisk in the river
+[G39.2,28.5]Do [QC1498 Path of Defense][A Warrior]
+[G42.07,26.63]Do [QC806 Dark Storms]: \\ - Kill Fizzle Darkstorm
 [G43.09,30.34]Turn in [QT816 Lost But Not Forgotten].
 Go to Razor Hill and turn in [QT806 Dark Storms]. \\Accept [QA828 Margoz]
 [R]Repair and [S]resupply if needed.[OC]
