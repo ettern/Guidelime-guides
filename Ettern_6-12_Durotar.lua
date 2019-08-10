@@ -156,6 +156,6 @@ Upgrade First Aid to skillevel 40, then learn Heavy Linen Bandage.
 [G50.8,43.6]Accept [QA840 Conscript of the Horde][A Warlock,Mage,Priest,Rogue,Hunter,Shaman]
 [G62.3,19.33The Barrens]Run west into the Barrens
 Congratulations, you reached the end of this demo created by |cFF69CCF0Ettern - Dreamstate|r
-[NX 12-14 Barrens]
+[NX 12-16 Barrens]
 
 ]], "Ettern")

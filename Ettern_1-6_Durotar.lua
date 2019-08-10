@@ -68,12 +68,13 @@ Use [H unstuck] feature on the platform where Yarrog is located[A Mage,Warrior,H
 [G42.8,69.1]Turn in [QT794 Burning Blade Medallion]. \\Accept [QA805 Report to Sen'jin Village]
 [G42.4,68.8]Accept [QA5649 In Favor of Spirituality][A Priest]
 [G42.4,69.2]Turn in [QT1516 Call of Earth (part 1)]. \\Accept [QA1517 Call of Earth (part 2)][A Shaman]
+[G42.7,67.3][V]Sell items here.
 [G44.63,68.67]Turn in [QT6394 Thazz'ril's Pick]
 Go to [G 41.7,73.2], then go up the hill to[G 40.7,74.2]. Turn left and continue to follow the path up [G 42.1,74.8] until you see a big stone[G 44,76.2].[A Shaman]
 Open your inventory and use the provided item, Earth Sapta. \\Turn in [QT1517 Call of Earth (part 2)]. \\Accept [QA1518 Call of Earth (part 3)][A Shaman]
 Run back/unstuck - so you end up in starting-town.[OC][A Shaman]
 [G42.4,69.2]Turn in [QT1518 Call of Earth (part 3)][A Shaman]
 Leave starting zone and pick up [QA2161 A Peon's Burden][G52.1,68.3].
-Grind mobs around Sen'jin Village until level [XP6][A Mage]
+[G52.23,71.88]Grind mobs around Sen'jin Village until level [XP6][A Mage]
 [NX 6-12 Durotar]
 ]], "Ettern")
